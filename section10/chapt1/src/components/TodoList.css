@@ -1,0 +1,21 @@
+.TodoList {
+}
+
+.TodoList > input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid rgb(220, 220, 220);
+  padding: 15px 0px;
+  margin-bottom: 20px;
+}
+
+.TodoList > input:focus {
+  outline: none;
+  border-bottom: 1px solid #1f93ff;
+}
+
+.TodoList .todos_wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

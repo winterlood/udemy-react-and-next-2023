@@ -1,0 +1,23 @@
+.header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 50px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 80px 10px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
