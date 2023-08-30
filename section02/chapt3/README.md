@@ -1,8 +1,3 @@
-# React + Vite
+## 2-3. 리액트 앱 동작 원리 살펴보기
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2섹션 3챕터 **2-3. 리액트 앱 동작 원리 살펴보기** 강의에서 작성한 소스코드입니다.
